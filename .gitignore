@@ -1,0 +1,23 @@
+
+# sensitive info in .env file
+.env
+*.zip
+/chroma_persistent_storage
+
+
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info
+
+
+#pyhton virtual environment
+.myenv/  
+/myenv/  
+
+
+dist/
+build/
+
+*.log
+*.sqlite
